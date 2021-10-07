@@ -16,3 +16,5 @@ To create a cloud function:
 
 In the Cloud Shell command line, create a directory for the function code.
 
+mkdir gcf_hello_world
+

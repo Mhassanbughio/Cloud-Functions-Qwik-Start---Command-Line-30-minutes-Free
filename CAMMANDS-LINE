@@ -8,3 +8,11 @@ gcloud auth list
 You can list the project ID with this command:
 
 gcloud config list project
+
+
+Create a function
+
+To create a cloud function:
+
+In the Cloud Shell command line, create a directory for the function code.
+

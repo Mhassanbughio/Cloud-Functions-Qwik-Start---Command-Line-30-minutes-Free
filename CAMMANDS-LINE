@@ -43,3 +43,7 @@ const name = pubSubMessage.data
     ? Buffer.from(pubSubMessage.data, 'base64').toString() : "Hello World";
 console.log(`My Cloud Function: ${name}`);
 };
+
+Create a cloud storage bucket
+Use the following command to create a new cloud storage bucket for your function:
+

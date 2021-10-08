@@ -61,3 +61,5 @@ the function keeps the existing trigger unless otherwise specified.
 
 For this lab, you'll set the --trigger-topic as hello_world.
 
+Deploy the function to a pub/sub topic named hello_world, replacing [BUCKET_NAME] with the name of your bucket:
+

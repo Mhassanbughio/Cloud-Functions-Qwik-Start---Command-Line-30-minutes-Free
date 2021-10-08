@@ -70,3 +70,5 @@ gcloud functions deploy helloWorld \
 
 If prompted, enter Y to allow unauthenticated invocations of a new function.
 
+Verify the status of the function.
+

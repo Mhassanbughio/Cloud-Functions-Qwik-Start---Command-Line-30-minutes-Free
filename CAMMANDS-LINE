@@ -76,3 +76,11 @@ gcloud functions describe helloWorld
 
 An ACTIVE status indicates that the function has been deployed.
 
+entryPoint: helloWorld
+eventTrigger:
+  eventType: providers/cloud.pubsub/eventTypes/topic.publish
+  failurePolicy: {}
+  resource:
+...
+status: ACTIVE
+...

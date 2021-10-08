@@ -33,6 +33,10 @@ Copy the following into the index.js file
 * @param {object} data The event payload.
 * @param {object} context The event metadata.
 */
+
+Exit nano (Ctrl+x) and save (Y) the file.
+
+
 exports.helloWorld = (data, context) => {
 const pubSubMessage = data;
 const name = pubSubMessage.data

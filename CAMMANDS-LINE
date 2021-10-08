@@ -73,3 +73,6 @@ If prompted, enter Y to allow unauthenticated invocations of a new function.
 Verify the status of the function.
 
 gcloud functions describe helloWorld
+
+An ACTIVE status indicates that the function has been deployed.
+

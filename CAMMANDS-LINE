@@ -59,3 +59,5 @@ Deploy your function
 When deploying a new function, you must specify --trigger-topic, --trigger-bucket, or --trigger-http. When deploying an update to an existing function, 
 the function keeps the existing trigger unless otherwise specified.
 
+For this lab, you'll set the --trigger-topic as hello_world.
+

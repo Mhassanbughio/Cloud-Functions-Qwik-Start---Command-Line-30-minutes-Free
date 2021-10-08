@@ -51,3 +51,7 @@ gsutil mb -p [PROJECT_ID] gs://[BUCKET_NAME]
 
 PROJECT_ID is the Project ID in the connection details of this lab
 
+
+Test Completed Task
+Click Check my progress to verify your performed task. If you have completed the task successfully you will granted with an assessment score.
+

@@ -67,3 +67,6 @@ gcloud functions deploy helloWorld \
   --stage-bucket [BUCKET_NAME] \
   --trigger-topic hello_world \
   --runtime nodejs8
+
+If prompted, enter Y to allow unauthenticated invocations of a new function.
+

@@ -4,16 +4,13 @@ You can list the active account name with this command:
 
 gcloud auth list
 
-
 You can list the project ID with this command:
 
 gcloud config list project
 
-
 Create a function
 
 To create a cloud function:
-
 In the Cloud Shell command line, create a directory for the function code.
 
 mkdir gcf_hello_world
@@ -21,3 +18,6 @@ mkdir gcf_hello_world
 Move to the gcf_hello_world directory.
 
 cd gcf_hello_world
+
+Create and open index.js to edit.
+

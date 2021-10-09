@@ -1,13 +1,16 @@
 gcloud is the command-line tool for Google Cloud. It comes pre-installed on Cloud Shell and supports tab-completion.
 
+################################################################################
 You can list the active account name with this command:
 
 gcloud auth list
 
+################################################################################
 You can list the project ID with this command:
 
 gcloud config list project
 
+################################################################################
 Create a function
 
 To create a cloud function:
